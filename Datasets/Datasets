@@ -1,0 +1,14 @@
+Los Datasets de este proyecto se encuentran en el siguiente link: https://drive.google.com/drive/folders/1i0Xx_ArNgErwc9mPeL1TtKEPRlBf3yaC?usp=share_link
+
+Los originales son:
+
+Coursera_courses.csv
+Coursera_reviews.csv
+edx_courses.csv
+udemy_courses.csv
+
+Luego del proceso de ETL se generaron éstos con los cambios:
+
+coursera_reviews_NEW.csv
+edx_courses_NEW.csv
+udemy_courses_NEW.csv
