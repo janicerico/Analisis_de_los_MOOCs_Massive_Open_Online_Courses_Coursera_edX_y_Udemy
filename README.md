@@ -22,7 +22,7 @@ En esta ocasión, asumiendo el rol de Data Analyst, se tiene la tarea de realiza
 
 4 Tablas contenidas en archivos .csv correspondientes a las Plataformas: Coursera, edX y Udemy (Coursera_courses.csv, Coursera_reviews.csv, edx_courses.csv, udemy_courses.csv).
   
-Se pueden extraer del sigiente link: https://drive.google.com/drive/folders/1i0Xx_ArNgErwc9mPeL1TtKEPRlBf3yaC?usp=share_link
+Se pueden extraer del siguiente link: https://drive.google.com/drive/folders/1i0Xx_ArNgErwc9mPeL1TtKEPRlBf3yaC?usp=share_link
  
 ## <h1 align=center> TRANSFORMACIONES REQUERIDAS (Procesos de EDA y ETL)
 
