@@ -36,7 +36,7 @@ Esta labor quedó plasmada en el archivo: EDA - MOOCs.ipynb
 
 Se solicitó la creación de una Nube de Palabras con las que más se repetían en los títulos de los cursos, con la finalidad de tener una idea generalizada del contenido presente en las plataformas.
   
-Dicho objeto se generó a través de Python, para lo cual se puede consultar el siguiente cuaderno de Jupyter: WordCloud.ipynb (Carpeta WordCloud), y el resultado final se guardó en: wordcloud.png (Carpeta WordCloud)
+Dicho objeto se generó a través de Python, para lo cual se puede consultar el siguiente cuaderno de Jupyter: WordCloud.ipynb, y el resultado final se guardó en: wordcloud.png (Carpeta WordCloud)
   
 ## <h1 align=center> ANÁLISIS
 
