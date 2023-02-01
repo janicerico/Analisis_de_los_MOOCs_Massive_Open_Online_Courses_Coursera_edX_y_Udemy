@@ -39,7 +39,7 @@ Se solicitó la creación de una Nube de Palabras con las que más se repetían 
 Dicho objeto se generó a través de Python, para lo cual se puede consultar el siguiente cuaderno de Jupyter: WordCloud.ipynb, y el resultado final se guardó en: wordcloud.png (Carpeta WordCloud)
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/109157476/216088571-ae93ffb7-bcae-4915-b1fb-7e401e740543.png>
+<img src=https://user-images.githubusercontent.com/109157476/216088816-50073a16-63b6-4da4-b999-e25bbfc125ab.png>
   
 ## <h1 align=center> ANÁLISIS
 
