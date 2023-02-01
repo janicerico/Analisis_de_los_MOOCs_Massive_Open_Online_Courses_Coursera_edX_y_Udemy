@@ -41,6 +41,12 @@ Dicho objeto se generó a través de Python, para lo cual se puede consultar el 
 ## <h1 align=center> ANÁLISIS
 
 Ya teniendo a disposición la información de los datasets más clara para su lectura e interpretación, se exportaron a nuevos archivos .csv (coursera_reviews_NEW.csv, edx_courses_NEW.csv, udemy_courses_NEW.csv), de igual forma ubicados en el drive descrito arriba, para usarlos en las gráficas del análisis. Para ello se escogió la plataforma de Power BI, donde se cargaron las nuevas bases de datos, y se realizaron unos pequeños retoques a los datos (cambio de tipo de dato de la columna 'n_enrolled' de la tabla de edX, y luego el reemplazo de datos nulos con el promedio de la misma columna). Se hicieron gráficos respecto al precio, idioma, nivel y rating de los cursos.
+
+<p align="center">
+<img src=https://user-images.githubusercontent.com/109157476/216088068-e7dbc9c9-7433-429c-9438-5d30c5490740.png>
+  
+<p align="center">
+<img src=https://user-images.githubusercontent.com/109157476/216088214-6c2316aa-ba6f-4580-8cc2-1f264a66f1fc.png>
   
 El archivo donde se resumieron dichas labores es: Dashboard.pbix (ubicado en el siguiente drive: https://drive.google.com/drive/folders/1zCyTQ4Hjx9d0aC3tlOflcKKVKRpzcXog?usp=share_link)
   
